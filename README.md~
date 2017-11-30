@@ -86,3 +86,4 @@ var sortFields = {
     likes: 'string',
     subscription_level: 'number'
 };
+
